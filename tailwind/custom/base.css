@@ -12,5 +12,5 @@
  * editor.
 */
 body {
-	@apply bg-background text-foreground font-sans;
+	@apply bg-gray-200 text-foreground font-sans;
 }
